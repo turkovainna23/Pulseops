@@ -1,9 +1,10 @@
 # PulseOps
 
 **Self-hosted uptime & infrastructure monitoring platform with a fully automated CI/CD pipeline.**
-**Self-hosted платформа моніторингу доступності та інфраструктури з повністю автоматизованим CI/CD.**
 
-🇬🇧 [English](#english) · 🇺🇦 [Українська](#українська)
+**Платформа моніторингу доступності та інфраструктури з повністю автоматизованим CI/CD.**
+
+[English](#english) · [Українська](#українська)
 
 ![Status](https://img.shields.io/badge/status-in%20development-yellow)
 ![License](https://img.shields.io/badge/license-MIT-blue)

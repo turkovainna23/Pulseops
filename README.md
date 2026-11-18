@@ -32,14 +32,14 @@ deployed automatically through a CI/CD pipeline.
 - **Automated delivery** – every change is built, tested and deployed through CI/CD
 - **Infrastructure as code** – reproducible environment with Docker Compose and Ansible
 
-### Architecture
-(see diagram below)
+## Architecture 
+![PulseOps architecture](docs/architecture.png)
 
 ### Tech stack
 | Area | Tools |
 | Application | Python, REST API, PostgreSQL, Nginx |
 | Containers | Docker, Docker Compose |
-| Monitoring | Prometheus, Grafana, Loki, Zabbix |
+| Monitoring | Prometheus, Alertmanager, Grafana, Loki, Zabbix |
 | Automation | GitHub Actions, Ansible |
 | Alerting | Telegram Bot |
 
@@ -72,14 +72,14 @@ Prometheus, за серверами стежить Zabbix, дашборди бу
 - **Автоматична доставка** – кожна зміна збирається, тестується та розгортається через CI/CD
 - **Інфраструктура як код** – відтворюване середовище на Docker Compose та Ansible
 
-### Архітектура
-(діаграма нижче)
+## Архітектура
+![PulseOps architecture](docs/architecture.png)
 
 ### Стек
 | Напрям | Інструменти |
 | Застосунок | Python, REST API, PostgreSQL, Nginx |
 | Контейнери | Docker, Docker Compose |
-| Моніторинг | Prometheus, Grafana, Loki, Zabbix |
+| Моніторинг | Prometheus, Alertmanager, Grafana, Loki, Zabbix |
 | Автоматизація | GitHub Actions, Ansible |
 | Алерти | Telegram Bot |
 

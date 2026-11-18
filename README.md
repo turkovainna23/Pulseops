@@ -52,7 +52,6 @@ deployed automatically through a CI/CD pipeline.
 - [ ] Telegram alerts
 - [ ] CI/CD pipeline
 - [ ] Ansible deployment
-
 ---
 
 ## Українська
@@ -112,3 +111,4 @@ flowchart LR
     P --> T[Telegram alerts]
     Z --> T
 ```
+h
